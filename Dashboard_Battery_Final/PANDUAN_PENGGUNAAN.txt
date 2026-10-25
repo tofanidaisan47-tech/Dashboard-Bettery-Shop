@@ -1,0 +1,37 @@
+================================================================================
+ BATTERY SHOP TCC-2 | PT GMF AEROASIA Tbk
+ Aircraft Battery Maintenance Dashboard & Operational Monitoring System
+================================================================================
+
+PANDUAN PENGGUNAAN DI LAPTOP PERUSAHAAN (100% OFFLINE - STANDALONE)
+
+1. CARA MENJALANKAN APLIKASI:
+   - Klik ganda (double-click) pada file 'Dashboard_Battery_TCC2.exe' atau 'Buka_Dashboard_Battery.bat'.
+   - (Opsional) Klik ganda 'Buat_Shortcut_Desktop.bat' untuk membuat ikon pintasan langsung di Desktop Windows laptop Anda.
+   - Aplikasi akan langsung terbuka secara mandiri (100% Standalone).
+   - Laptop kantor TIDAK MEMERLUKAN instalasi Python atau software tambahan lainnya.
+
+2. SUMBER DATA MASTER EXCEL:
+   - File default adalah 'Daily Battery.xlsx' yang berada di folder ini.
+   - Anda dapat membuka & mengedit file ini langsung di Microsoft Excel kapan saja.
+   - Jika Anda memiliki file Excel yang diupdate dari HP / laptop lain:
+     a. Buka aplikasi, klik menu '📁 Excel ▾' di header atas.
+     b. Pilih '📁 Pilih / Import Master Workbook Lain...'.
+     c. Pilih file Excel Anda, lalu klik 'Ya' pada konfirmasi validasi.
+     d. Dashboard akan otomatis memuat dan beralih ke file tersebut sebagai master aktif.
+
+3. KESELAMATAN & CADANGAN OTOMATIS (BACKUPS):
+   - Setiap kali terjadi penambahan/perubahan/penghapusan data di dashboard,
+     sistem otomatis membuat cadangan aman di folder 'backups/'.
+   - Jika terjadi kendala pada file Excel, Anda dapat memulihkan cadangan
+     melalui menu 'Pengaturan' > 'Pulihkan Data dari Cadangan'.
+
+4. PINTASAN KEYBOARD (SHORTCUTS):
+   - [Double-Click Sel] : Edit data langsung atau pilih dropdown di tabel
+   - [Delete]           : Hapus baris yang sedang dipilih
+   - [F5]               : Refresh data dari file Excel aktif
+   - [F1]               : Buka Glosarium & Panduan Alur Status Bengkel
+
+================================================================================
+PT GMF AeroAsia Tbk - Safety • Quality • Reliability
+================================================================================

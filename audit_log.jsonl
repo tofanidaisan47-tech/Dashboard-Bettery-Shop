@@ -1,0 +1,68 @@
+{"timestamp": "2026-10-15 21:45:44", "action": "TEST_ACTION", "wo": "WO-9999", "details": "Audit test details"}
+{"timestamp": "2026-10-15 21:46:50", "action": "TEST_ACTION", "wo": "WO-9999", "details": "Audit test details"}
+{"timestamp": "2026-10-15 21:47:31", "action": "TEST_ACTION", "wo": "WO-9999", "details": "Audit test details"}
+{"timestamp": "2026-10-15 21:48:03", "action": "TEST_ACTION", "wo": "WO-9999", "details": "Audit test details"}
+{"timestamp": "2026-10-15 21:48:27", "action": "TEST_ACTION", "wo": "WO-9999", "details": "Audit test details"}
+{"timestamp": "2026-10-15 22:00:11", "action": "TEST_ACTION", "wo": "WO-9999", "details": "Audit test details"}
+{"timestamp": "2026-10-15 22:01:00", "action": "TEST_ACTION", "wo": "WO-9999", "details": "Audit test details"}
+{"timestamp": "2026-10-15 22:04:44", "action": "TEST_ACTION", "wo": "WO-9999", "details": "Audit test details"}
+{"timestamp": "2026-10-15 22:22:52", "action": "TEST_ACTION", "wo": "WO-9999", "details": "Audit test details"}
+{"timestamp": "2026-10-15 22:23:56", "action": "TEST_ACTION", "wo": "WO-9999", "details": "Audit test details"}
+{"timestamp": "2026-10-15 22:43:37", "action": "TEST_ACTION", "wo": "WO-9999", "details": "Audit test details"}
+{"timestamp": "2026-10-15 22:44:34", "action": "TEST_ACTION", "wo": "WO-9999", "details": "Audit test details"}
+{"timestamp": "2026-10-16 08:54:08", "action": "ADD_DAILY_UNIT", "wo": "-", "details": "PN: -, SN: SN-"}
+{"timestamp": "2026-10-16 08:55:28", "action": "DELETE_DAILY_UNIT", "wo": "-", "details": "Deleted serial SN-"}
+{"timestamp": "2026-10-16 09:08:26", "action": "TEST_ACTION", "wo": "WO-9999", "details": "Audit test details"}
+{"timestamp": "2026-10-16 09:35:37", "action": "TEST_ACTION", "wo": "WO-9999", "details": "Audit test details"}
+{"timestamp": "2026-10-16 09:36:14", "action": "TEST_ACTION", "wo": "WO-9999", "details": "Audit test details"}
+{"timestamp": "2026-10-16 09:40:11", "action": "TEST_ACTION", "wo": "WO-9999", "details": "Audit test details"}
+{"timestamp": "2026-10-16 09:42:20", "action": "ADD_DAILY_UNIT", "wo": "6031619", "details": "PN: 018550-000, SN: SN-"}
+{"timestamp": "2026-10-16 09:46:44", "action": "DELETE_DAILY_UNIT", "wo": "6031619", "details": "Deleted serial SN-"}
+{"timestamp": "2026-10-16 09:57:44", "action": "TEST_ACTION", "wo": "WO-9999", "details": "Audit test details"}
+{"timestamp": "2026-10-16 10:00:11", "action": "ADD_DAILY_UNIT", "wo": "6031619", "details": "PN: 018550-000, SN: SN-"}
+{"timestamp": "2026-10-16 10:06:31", "action": "DELETE_DAILY_UNIT", "wo": "6031619", "details": "Deleted serial SN-"}
+{"timestamp": "2026-10-16 10:07:43", "action": "ADD_DAILY_UNIT", "wo": "77788899", "details": "PN: 40176-7, SN: SN-E2E-TEST"}
+{"timestamp": "2026-10-16 10:07:44", "action": "DELETE_DAILY_UNIT", "wo": "77788899", "details": "Deleted serial SN-E2E-TEST"}
+{"timestamp": "2026-10-16 10:07:56", "action": "ADD_FSB_RECORD", "wo": "99911122", "details": "SN: SN-FSB-E2E, Date: 16 Okt 2026"}
+{"timestamp": "2026-10-16 10:07:56", "action": "DELETE_FSB_RECORD", "wo": "{'WO': '99911122', 'Serial Number': 'SN-FSB-E2E', 'Date FSB': '16 Okt 2026'}", "details": "Deleted FSB history row"}
+{"timestamp": "2026-10-16 10:08:08", "action": "ADD_SCRAP_RECORD", "wo": "88822233", "details": "SN: SN-SCRAP-E2E, Date: 16 Okt 2026"}
+{"timestamp": "2026-10-16 10:08:09", "action": "DELETE_SCRAP_RECORD", "wo": "{'WO': '88822233', 'Serial Number': 'SN-SCRAP-E2E', 'Date SCRAP': '16 Okt 2026'}", "details": "Deleted SCRAP history row"}
+{"timestamp": "2026-10-16 10:09:40", "action": "ADD_DAILY_UNIT", "wo": "6031619", "details": "PN: 018550-000, SN: SN-"}
+{"timestamp": "2026-10-16 10:10:14", "action": "DELETE_DAILY_UNIT", "wo": "6031619", "details": "Deleted serial SN-"}
+{"timestamp": "2026-10-16 10:14:03", "action": "TEST_ACTION", "wo": "WO-9999", "details": "Audit test details"}
+{"timestamp": "2026-10-16 10:23:41", "action": "TEST_ACTION", "wo": "WO-9999", "details": "Audit test details"}
+{"timestamp": "2026-10-16 10:33:41", "action": "TEST_ACTION", "wo": "WO-9999", "details": "Audit test details"}
+{"timestamp": "2026-10-16 10:34:28", "action": "TEST_ACTION", "wo": "WO-9999", "details": "Audit test details"}
+{"timestamp": "2026-10-16 10:57:13", "action": "TEST_ACTION", "wo": "WO-9999", "details": "Audit test details"}
+{"timestamp": "2026-10-16 11:15:27", "action": "AUTO_ROUTE_FINAL_CHARGE", "wo": "6031769", "details": "Dipindahkan dari Daily Battery ke History FSB (Date FSB: 2026-10-16)"}
+{"timestamp": "2026-10-16 11:15:28", "action": "AUTO_ROUTE_SCRAP", "wo": "6031770", "details": "Dipindahkan dari Daily Battery ke History SCRAP (Alasan: Test Scrap Reason)"}
+{"timestamp": "2026-10-16 11:41:51", "action": "AUTO_ROUTE_FINAL_CHARGE", "wo": "6031769", "details": "Dipindahkan dari Daily Battery ke History FSB (Date FSB: 2026-10-16)"}
+{"timestamp": "2026-10-16 11:41:52", "action": "AUTO_ROUTE_SCRAP", "wo": "6031770", "details": "Dipindahkan dari Daily Battery ke History SCRAP (Alasan: Test Scrap Verification (Beyond Economical Repair))"}
+{"timestamp": "2026-10-16 12:52:38", "action": "AUTO_ROUTE_FINAL_CHARGE", "wo": "6031769", "details": "Dipindahkan dari Daily Battery ke History FSB (Date FSB: 2026-10-16)"}
+{"timestamp": "2026-10-16 12:52:42", "action": "AUTO_ROUTE_SCRAP", "wo": "6031770", "details": "Dipindahkan dari Daily Battery ke History SCRAP (Alasan: Test Scrap Verification (Beyond Economical Repair))"}
+{"timestamp": "2026-10-16 12:54:57", "action": "AUTO_ROUTE_FINAL_CHARGE", "wo": "6031769", "details": "Dipindahkan dari Daily Battery ke History FSB (Date FSB: 2026-10-16)"}
+{"timestamp": "2026-10-16 12:55:01", "action": "AUTO_ROUTE_SCRAP", "wo": "6031770", "details": "Dipindahkan dari Daily Battery ke History SCRAP (Alasan: Test Scrap Verification (Beyond Economical Repair))"}
+{"timestamp": "2026-10-16 12:55:28", "action": "TEST_ACTION", "wo": "WO-9999", "details": "Audit test details"}
+{"timestamp": "2026-10-16 12:56:41", "action": "TEST_ACTION", "wo": "WO-9999", "details": "Audit test details"}
+{"timestamp": "2026-10-16 12:57:57", "action": "TEST_ACTION", "wo": "WO-9999", "details": "Audit test details"}
+{"timestamp": "2026-10-16 13:22:59", "action": "AUTO_ROUTE_FINAL_CHARGE", "wo": "6031769", "details": "Dipindahkan dari Daily Battery ke History FSB (Date FSB: 2026-10-16)"}
+{"timestamp": "2026-10-16 13:23:02", "action": "AUTO_ROUTE_SCRAP", "wo": "6031770", "details": "Dipindahkan dari Daily Battery ke History SCRAP (Alasan: Test Scrap Verification (Beyond Economical Repair))"}
+{"timestamp": "2026-10-16 13:23:42", "action": "TEST_ACTION", "wo": "WO-9999", "details": "Audit test details"}
+{"timestamp": "2026-10-16 13:30:57", "action": "AUTO_ROUTE_FINAL_CHARGE", "wo": "6031619", "details": "Dipindahkan dari Daily Battery ke History FSB (Date FSB: 2026-10-16)"}
+{"timestamp": "2026-10-16 13:44:27", "action": "AUTO_ROUTE_FINAL_CHARGE", "wo": "6031769", "details": "Dipindahkan dari Daily Battery ke History FSB (Date FSB: 2026-10-16)"}
+{"timestamp": "2026-10-16 13:44:31", "action": "AUTO_ROUTE_SCRAP", "wo": "6031770", "details": "Dipindahkan dari Daily Battery ke History SCRAP (Alasan: Test Scrap Verification (Beyond Economical Repair))"}
+{"timestamp": "2026-10-16 13:48:18", "action": "AUTO_ROUTE_FINAL_CHARGE", "wo": "6031769", "details": "Dipindahkan dari Daily Battery ke History FSB (Date FSB: 2026-10-16)"}
+{"timestamp": "2026-10-16 13:48:21", "action": "AUTO_ROUTE_SCRAP", "wo": "6031770", "details": "Dipindahkan dari Daily Battery ke History SCRAP (Alasan: Test Scrap Verification (Beyond Economical Repair))"}
+{"timestamp": "2026-10-16 13:49:04", "action": "TEST_ACTION", "wo": "WO-9999", "details": "Audit test details"}
+{"timestamp": "2026-10-16 14:00:03", "action": "AUTO_ROUTE_FINAL_CHARGE", "wo": "6031769", "details": "Dipindahkan dari Daily Battery ke History FSB (Date FSB: 2026-10-16)"}
+{"timestamp": "2026-10-16 14:00:07", "action": "AUTO_ROUTE_SCRAP", "wo": "6031770", "details": "Dipindahkan dari Daily Battery ke History SCRAP (Alasan: Test Scrap Verification (Beyond Economical Repair))"}
+{"timestamp": "2026-10-17 20:41:28", "action": "AUTO_ROUTE_FINAL_CHARGE", "wo": "6031619", "details": "Dipindahkan dari Daily Battery ke History FSB (Date FSB: 2026-10-17)"}
+{"timestamp": "2026-10-20 09:48:55", "action": "AUTO_ROUTE_FINAL_CHARGE", "wo": "6031769", "details": "Dipindahkan dari Daily Battery ke History FSB (Date FSB: 2026-10-20)"}
+{"timestamp": "2026-10-21 09:05:39", "action": "AUTO_ROUTE_FINAL_CHARGE", "wo": "6031769", "details": "Dipindahkan dari Daily Battery ke History FSB (Date FSB: 2026-10-21)"}
+{"timestamp": "2026-10-24 20:42:46", "action": "AUTO_ROUTE_SCRAP", "wo": "6031619", "details": "Dipindahkan dari Daily Battery ke History SCRAP (Alasan: DMF)"}
+{"timestamp": "2026-10-24 21:00:35", "action": "AUTO_ROUTE_FINAL_CHARGE", "wo": "6031769", "details": "Dipindahkan dari Daily Battery ke History FSB (Date FSB: 2026-10-24)"}
+{"timestamp": "2026-10-24 21:03:07", "action": "AUTO_ROUTE_FINAL_CHARGE", "wo": "6031769", "details": "Dipindahkan dari Daily Battery ke History FSB (Date FSB: 2026-10-24)"}
+{"timestamp": "2026-10-24 21:11:19", "action": "AUTO_ROUTE_FINAL_CHARGE", "wo": "6031769", "details": "Dipindahkan dari Daily Battery ke History FSB (Date FSB: 2026-10-24)"}
+{"timestamp": "2026-10-24 21:23:14", "action": "AUTO_ROUTE_FINAL_CHARGE", "wo": "6031769", "details": "Dipindahkan dari Daily Battery ke History FSB (Date FSB: 2026-10-24)"}
+{"timestamp": "2026-10-24 21:29:47", "action": "AUTO_ROUTE_FINAL_CHARGE", "wo": "6031769", "details": "Dipindahkan dari Daily Battery ke History FSB (Date FSB: 2026-10-24)"}
+{"timestamp": "2026-10-25 10:27:18", "action": "AUTO_ROUTE_FINAL_CHARGE", "wo": "6031769", "details": "Dipindahkan dari Daily Battery ke History FSB (Date FSB: 2026-10-25)"}

@@ -1,0 +1,8 @@
+{
+    "master_excel_filename": "D:\\Semester 5\\Daisan Tofani\\GMF\\PROJECT\\Dashboard Battery\\Daily_Battery_100_Dummy_Data.xlsx",
+    "backup_folder": "backups",
+    "backup_retention_count": 30,
+    "auto_backup_on_save": true,
+    "detect_external_conflicts": true,
+    "conflict_check_tolerance_seconds": 1.0
+}

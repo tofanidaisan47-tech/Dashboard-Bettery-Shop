@@ -1,0 +1,54 @@
+{
+    "Part Number": [
+        "018550-000",
+        "024147-000",
+        "2758",
+        "405CH",
+        "40678-2",
+        "40176-7",
+        "1756-3",
+        "1658-6",
+        "BA06-01",
+        "BA35-01",
+        "024637-000",
+        "024453-000",
+        "416488",
+        "4059",
+        "-",
+        "1",
+        "6A-1234",
+        "405CH-1"
+    ],
+    "Customer": [
+        "PT Garuda Indonesia",
+        "Citilink Indonesia",
+        "PT. Indonesia AirAsia",
+        "Cebu Air",
+        "Avia Tech",
+        "PT. BBN Airlines",
+        "BBJ",
+        "testing",
+        "Batik Air",
+        "Sriwijaya Air",
+        "Luthfansa"
+    ],
+    "Position": [
+        "UR",
+        "WR",
+        "FSC",
+        "FRA",
+        "WI",
+        "TECH",
+        "SRAM",
+        "SREW"
+    ],
+    "Status": [
+        "Reguler",
+        "Overhaul",
+        "Periodic",
+        "Restoration",
+        "PIR",
+        "FINAL CHARGE",
+        "SCRAP"
+    ]
+}
